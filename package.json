@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Benedict Gardner <Garb18.dev@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.8.31"
+  }
 }
